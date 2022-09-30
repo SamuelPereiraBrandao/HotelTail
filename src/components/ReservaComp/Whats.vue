@@ -22,7 +22,7 @@
                             
 
                             <a target="_blank" href="https://api.whatsapp.com/send/?phone=5511981175506&text=Tenho+interesse+em+reservar+uma+vaga,+%20+Por%20favor"
-                                class="hover:text-white transition-all inline-flex items-center text-white bg-black hover:bg-white hover:text-black rounded font-medium px-3 py-2">
+                                class=" transition-all inline-flex items-center text-white bg-black hover:bg-white hover:text-black rounded font-medium px-3 py-2">
                                 ENTRAR EM CONTATO
                                 <svg class="w-4 h-4 mx-4 my-2 text-center" fill="none" stroke="currentColor"
                                     viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
