@@ -1,7 +1,7 @@
 <template>
     <div class="border-t border-gray-200">
         <div class="container mx-auto px-4 flex items-center justify-between">
-            <div class=" text-gray-600 font-black">
+            <div class=" text-gray-600 font-black hover:text-black transition-all">
                 Hotel Tail
             </div>
             <div class="flex ">
