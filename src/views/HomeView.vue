@@ -11,7 +11,7 @@
 // @ is an alias to /src
 import ConteudoInicial from '@/components/ConteudoInicial.vue'
 import ResortsDestaques from '@/components/ResortesDestaque.vue'
-import Conheca from '@/components/ConteudoConheca.vue'
+import Conheca from '@/components/Conheca.vue'
 export default {
   name: 'HomeView',
   components: {

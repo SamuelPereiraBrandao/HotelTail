@@ -4,9 +4,9 @@
             <div class="flex ">
                 <div>
                     <div>
-                        <div class="text-sm text-gray-400 font-medium">RESORT EM DESTAQUE</div>
+                        <div class="text-sm text-gray-400 font-medium hover:text-gray-800 transition-all">RESORT EM DESTAQUE</div>
                         <div class="text-2xl ">Ecoresort Praia do Forte Bahia</div>
-                        <div class="text-sm text-gray-400 font-medium mt-4">Hotel qualidade 5 estrelas</div>
+                        <div class="text-sm text-gray-400 font-medium mt-4 hover:text-gray-800 transition-all">Hotel qualidade 5 estrelas</div>
                         <div class="text-sm text-gray-400 font-medium mt-4 mr-4">
                             <p class="mb-4">O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O
                                 Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de
