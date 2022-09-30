@@ -1,17 +1,21 @@
 <template>
 <div>
-  <div class="container mx-auto px-4 banner-img rounded">
-    <h1>tes</h1>
-  </div>
+<ConteudoInicial/>
+<ResortsDestaques/>
 </div>
+
+
 </template>
 <script>
 // @ is an alias to /src
+import ConteudoInicial from '@/components/ConteudoInicial.vue'
+import ResortsDestaques from '@/components/ResortesDestaque.vue'
 export default {
   name: 'HomeView',
   components: {
-
-  }
+    ConteudoInicial,
+    ResortsDestaques
+}
 }
 </script>
 <style>
