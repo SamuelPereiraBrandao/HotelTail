@@ -2,7 +2,7 @@
     <div>Informacoes</div>
 </template>
 <script>
-    export default {
-        name:'InformacoesVue',
-    }
+export default {
+    name: 'InformacoesVue',
+}
 </script>
