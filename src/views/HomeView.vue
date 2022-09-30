@@ -3,6 +3,8 @@
     <ConteudoInicial />
     <ResortsDestaques />
     <Conheca />
+    
+    <Footer/>
   </div>
 
 
@@ -12,12 +14,14 @@
 import ConteudoInicial from '@/components/ConteudoInicial.vue'
 import ResortsDestaques from '@/components/ResortesDestaque.vue'
 import Conheca from '@/components/Conheca.vue'
+import Footer from '@/components/Footer.vue'
 export default {
   name: 'HomeView',
   components: {
     ConteudoInicial,
     ResortsDestaques,
-    Conheca
+    Conheca,
+    Footer
   }
 }
 </script>
