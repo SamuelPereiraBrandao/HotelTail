@@ -1,6 +1,6 @@
 <template>
     <nav>
-        <div class="flex items-center justify-between">
+        <div class="container  flex items-center justify-between ">
             <div class="">
                 <router-link to="/">
                     <img class="h-24" src="@/assets/img/hotellogo.png" alt="">
@@ -9,10 +9,9 @@
             <div class="mr-44">
                 <router-link class="p-4 text-sm text-gray-800 hover:text-gray-600 transition-all" to="/">Home
                 </router-link> |
-                <router-link class="p-4 text-sm text-gray-800 hover:text-gray-600 transition-all" to="/reserva">Como
-                    reservar</router-link> |
+                <router-link class="p-4 text-sm text-gray-800 hover:text-gray-600 transition-all" to="/reserva">Reservar</router-link> |
                 <router-link class="p-4 text-sm text-gray-800 hover:text-gray-600 transition-all" to="/informacoes">
-                    Informações</router-link> 
+                    Sobre</router-link> 
             </div>
 
         </div>

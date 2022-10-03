@@ -1,5 +1,7 @@
 <template>
-    <section class="py-48 bg-gray-200 flex flex-col justify-center">
+  <h1 class="text-center text-4xl font-bold tracking-tight mt-10 bg-gray-400  mx-10 rounded-full p-2 text-white hover:text-black transition-all">Sobre Nós</h1>
+    <section class="py-48 bg-gray-200 flex flex-col justify-center ">
+      
         <div class="grid grid-cols-2 gap-10 max-w-6xl mx-auto">
           <div class="-mt-20 flex justify-end">
             <img class="w-2/3 h-2/3 object-cover overflow-hidden pb-20 rounded" src="@/assets/img/resort1.jpg" />
@@ -42,7 +44,7 @@
               
             </div>
             <a target="_blank" href="https://api.whatsapp.com/send/?phone=5511981175506&text=Tenho+interesse+em+reservar+uma+vaga,+%20+Por%20favor"
-            class=" transition-all inline-flex items-center text-white bg-black hover:bg-gray-100 hover:text-black rounded font-medium px-3 py-2">
+            class=" transition-all inline-flex items-center text-white bg-black hover:bg-gray-200 hover:text-black rounded font-medium px-3 py-2">
             ENTRAR EM CONTATO
             <svg class="w-4 h-4 mx-4 my-2 text-center" fill="none" stroke="currentColor"
                 viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -51,6 +53,7 @@
             </svg>
         </a>
           </div>
+          
         </div>
       </section>
 </template>

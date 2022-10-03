@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="container mx-auto px-4 py-20">
+        <div class="container max-w-5xl mx-auto px-4 py-20">
             <div class="flex ">
                 <div class="ml-auto ">
                     <img class="rounded" src="@/assets/img/whats.png">

@@ -1,6 +1,6 @@
 <template>
     <div class=" banner-img2">
-        <div class="flex-col container mx-auto px-4 h-full flex items-center justify-center">
+        <div class="flex-col container max-w-5xl mx-auto px-4 h-full flex items-center justify-center">
             <div>
                 <div class="text-center">
                     <h1 class="text-gray-200 text-3xl mb-1">Reserve agora mesmo!</h1>

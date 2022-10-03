@@ -1,6 +1,6 @@
 <template>
-    <div class=" banner-img">
-        <div class="flex-col container mx-auto px-4 h-full flex items-center justify-center">
+    <div class=" banner-img mb-22">
+        <div class="flex-col container  max-w-5xl mx-auto px-4 h-full flex items-center justify-center">
             <div>
                 <div class="text-center">
                     <h1 class="text-gray-200 text-3xl mb-1">Onde você quer ir?</h1>
@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="">
-                <form action="" class="space-x-4">
+                <form action="" class="grid grid-cols-2 gap-4 lg:grid-cols-3">
 
                     <select name="" id=""
                         class=" m-2 bg-gray-50 px-3 py-2 border-gray-300 rounded text-gray-500 hover:text-black transition-all">
@@ -36,7 +36,7 @@
                     </select>
 
                     <router-link to="/reserva"
-                        class="hover:text-white transition-all inline-flex items-center text-yellow-900 bg-yellow-500 rounded font-medium px-3 py-2">
+                        class="col-span-2 justify-center hover:text-white transition-all inline-flex items-center text-yellow-900 bg-yellow-500 rounded font-medium px-3 py-2 lg:col-span-1">
 
                         <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"
                             xmlns="http://www.w3.org/2000/svg">

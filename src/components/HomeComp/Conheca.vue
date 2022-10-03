@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="container mx-auto px-4">
+        <div class="container  max-w-5xl mx-auto px-4">
             <div>
                 <h3 class="text-2xl text-center mb-8 font-semibold hover:text-gray-800 transition-all">Conheça mais
                     resorts</h3>
@@ -42,7 +42,7 @@
 
 
         <div class="py-20">
-            <div class="container mx-auto px-4 flex justify-center">
+            <div class="container  max-w-5xl mx-auto px-4 flex justify-center">
                 <form action="" class="space-x-4">
 
                     <select name="" id=""
